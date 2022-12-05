@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Loops1 {
+public class Loops1a {
     public static void main(String[] args) {
 
         // wszystkie cyfry

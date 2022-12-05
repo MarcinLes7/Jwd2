@@ -1,4 +1,4 @@
-public class Loops2 {
+public class Loops2a {
     public static void main(String[] args) {
         // pętle while
         int i = 0;
